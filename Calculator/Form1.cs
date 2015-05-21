@@ -13,6 +13,7 @@ namespace Calculator
 {
     public partial class Form1 : Form
     {
+
         private double saved = 0;
         private char sign = ' ';
         private int keyPoint = 0;
